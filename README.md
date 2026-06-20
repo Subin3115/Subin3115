@@ -9,4 +9,4 @@ Through AI, I explore questions such as:
 - What can AI reveal about human cognition and perception?
 
 ## Interests
-Human-Centered AI · Computer Vision · Human Cognition
+Human-Centered AI · Computer Vision · Cognitive Psychology
